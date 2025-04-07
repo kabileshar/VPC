@@ -23,8 +23,10 @@ A hands-on lab that demonstrates key cloud and private infrastructure skills inc
 
 ---
 
-## 📷 Key Screenshots
-Find step-by-step visuals and architecture validation screenshots in the attached `.docx` file.
+## 📄 Report
+
+Full documentation with screenshots and reflection available in `AWS-S3-VPC.docx`
+
 
 ---
 
